@@ -1,1 +1,1 @@
-In this project, I made Classic Snake Game we used to play in our childhood days. But the new thing is, I made a snapshot option so if user wants to take screenshot of his top score he can take screenshot and save it.
+In this project, I made Classic Snake Game (With the help of tutorial) we used to play in our childhood days. But the new thing is, I made a snapshot option so if user wants to take screenshot of his top score he can take screenshot and save it.
